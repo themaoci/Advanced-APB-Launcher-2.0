@@ -1,0 +1,396 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="Advanced_APB_Launcher.My" GeneratedClassName="MySettings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LanguageSelectorSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">English</Value>
+    </Setting>
+    <Setting Name="NoMoviesSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ResolutionSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No Change</Value>
+    </Setting>
+    <Setting Name="FullscreenSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No Change</Value>
+    </Setting>
+    <Setting Name="VsyncSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SmoothFrameRateSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StaticDecalsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DynamicShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LEShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BlobShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AOSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BloomSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DistortionSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TrilinearSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LQHealthHUDSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RenderEyelashesSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AnisotropySetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Disabled</Value>
+    </Setting>
+    <Setting Name="DynamicDecalsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LevelParticleSettings" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DynamicLightsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CDLightsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DirectionalLightmapsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MotionBlurSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DepthOfFieldSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="QualityBloomSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DPDistortionSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="STLeavesSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="STFrondsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StreamTexturesSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LensFlaresSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FogVolumesSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FPRTargetsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ThreadLagSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpscaleSPSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HighPolyCharsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="VSMShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PCFShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BetterShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ForegroundShadowsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SimpleVehicleMaterialsSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DXTLocalCharacterSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DXTLocalVehicleSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DXTOtherCharacterSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DXTOtherVehicleSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DXTNormalSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UnknownSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UnknownLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16 (Default)</Value>
+    </Setting>
+    <Setting Name="EnvironmentSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PropSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="CharacterSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="VehicleSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="PedestrianSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="CityVehicleSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="PickupSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PrimitiveSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="UISetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="VFXSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LSMSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="RenderTargetSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SignageSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PlayerGraffitiSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PlayerStatueSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CharacterSharedSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="VehicleSharedSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ContactSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="EnvironmentLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="PropLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="CharacterLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">256 (Default)</Value>
+    </Setting>
+    <Setting Name="VehicleLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128 (Default)</Value>
+    </Setting>
+    <Setting Name="PedestrianLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128 (Default)</Value>
+    </Setting>
+    <Setting Name="CityVehicleLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128 (Default)</Value>
+    </Setting>
+    <Setting Name="PickupLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="PrimitiveLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="UILabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1024 (Default)</Value>
+    </Setting>
+    <Setting Name="ShadowResolutionSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ShadowResolutionLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128 (Default)</Value>
+    </Setting>
+    <Setting Name="VFXLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">32 (Default)</Value>
+    </Setting>
+    <Setting Name="LSMLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16 (Default)</Value>
+    </Setting>
+    <Setting Name="RenderTargetLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">32 (Default)</Value>
+    </Setting>
+    <Setting Name="SignageLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="PlayerGraffitiLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="PlayerStatueLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16 (Default)</Value>
+    </Setting>
+    <Setting Name="CharacterSharedLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="VehicleSharedLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">64 (Default)</Value>
+    </Setting>
+    <Setting Name="ContactLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">256 (Default)</Value>
+    </Setting>
+    <Setting Name="CharacterDNMSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="CharacterDNMLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">512 (Default)</Value>
+    </Setting>
+    <Setting Name="PlayerVehicleSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PlayerVehicleLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="ParticleLODBiasSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ParticleLODBiasLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="ShadowQualityBiasSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ShadowQualityBiasLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="SunRenderQualitySetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SunRenderQualityLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="ParticleSpaceAreaSeting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="ParticleSpaceAreaLabelSeting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25000 (Default)</Value>
+    </Setting>
+    <Setting Name="FoliageDrawRadiusSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FoliageDrawRadiusLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="ShadowFilterRadiusSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ShadowFilterRadiusSettingLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="ShadowDepthBiasSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ShadowDepthBiasLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Low Quality (Default)</Value>
+    </Setting>
+    <Setting Name="MaxMemoryCacheEntrySetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MaxMemoryCacheEntryLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Medium Quality (Default)</Value>
+    </Setting>
+    <Setting Name="TextureStreamingMemorySetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="TextureStreamingMemoryLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Maximum Quality (Default)</Value>
+    </Setting>
+    <Setting Name="TexturePoolMemorySetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="TexturePoolMemoryLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">High Quality (Default)</Value>
+    </Setting>
+    <Setting Name="MeshStreamingMemorySetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="MeshStreamingMemoryLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Maximum Quality (Default)</Value>
+    </Setting>
+    <Setting Name="TextureCreationPerFrameSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MaxDynamicShadowsSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ShadowFadeDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">65</Value>
+    </Setting>
+    <Setting Name="CharacterLODDistance1Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="CharacterLODDistance2Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="VehicleLODDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="VehicleCullDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="PedestrianLODDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="PedestrianCullDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="DriverLODDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DriverCullDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="LCVehicleLODDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="LCVehicleCullDistanceSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="QualityBarSetting" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="QualityLabelSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="ResXSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="ResYSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="MouseAccelSetting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
