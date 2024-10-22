@@ -1,6 +1,6 @@
 ### Advanced APB Launcher Project  
   
-[Preview]("https://github.com/themaoci/Advanced-APB-Launcher-2.0/edit/main/windowpreview.png")
+<img src="windowpreview.png?raw=true" width="100%" title="">
   
 _so far it compiles not sure if it works it has been ripped directly from exe file_  
   
